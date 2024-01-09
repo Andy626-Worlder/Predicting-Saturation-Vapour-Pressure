@@ -10,7 +10,7 @@ The GeckoQ dataset is built to complement data-driven research in atmospheric sc
 
 GeckoQ features important thermodynamic properties for each molecule, computed by time-consuming quantum chemistry simulations: saturation vapour pressures [Pa], the chemical potential [kJ/mol], the free energy of the molecule in the mixture [kJ/mol], and the heat of vaporisation [kJ/mol]. Of these four, the saturation vapour pressures will be the focus of your term project.
 
-All data need for are placed in the file. 
+All data need for are placed in the file. (remember to put the data in the same root of the source code file if you are running directly)
 
 Submission format should be like:
 ```Id,target
