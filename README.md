@@ -1,6 +1,7 @@
 # Predicting-Saturation-Vapour-Pressure
 This is the project me and my teammates done in the course of University of Helsinki. 
 
+To note, this upload is just for the ones who want to advance their machine learning skills, not for any next-year submission or profit. Hope you have fun following how we interpret this. 
 ## Overview
 The term project is on the GeckoQ dataset, which has the atomic structures of 31,637 atmospherically relevant molecules resulting from pinene, toluene, and decane oxidation. The training set used in this competition is a subset of 27,147 molecules from the GeckoQ dataset. The test set in this competition is previously unpublished data, fresh from the LUMI supercomputer.
 
